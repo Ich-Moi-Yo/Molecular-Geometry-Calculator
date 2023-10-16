@@ -1,0 +1,6 @@
+1,0,Linear,180 degrees
+2,0,Linear,180 degrees
+2,2,Bent,less than 109.5 degrees
+3,0,Triagonal Planar,120 degrees
+3,1,Triagonal Pyramidal,less than 109.5 degrees
+4,0,Tetrahedral,109.5 degrees
